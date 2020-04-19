@@ -27945,7 +27945,7 @@ M:function(a){var t=null,s=this.c,r=s.y,q=s.x,p=s.ch
 return M.d5(t,T.eG(H.b([new T.bo(C.v9,new Y.xD(s,t),t),new T.bo(C.kd,Q.Zn(new P.w(4283461348),r,"\u0e2b\u0e32\u0e22\u0e41\u0e25\u0e49\u0e27",q,p),t),new T.bo(C.kd,Q.Zn(new P.w(4282567640),s.d,"\u0e23\u0e31\u0e01\u0e29\u0e32\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19 \u0e23\u0e1e.",s.r,p),t),new T.bo(C.kd,Q.Zn(new P.w(4294942531),s.b,"\u0e40\u0e2a\u0e35\u0e22\u0e0a\u0e35\u0e27\u0e34\u0e15",s.f,p),t),new M.xl(t)],u.E),C.a1,C.S),t,t,t,t,t,t,t)}}
 Y.CF.prototype={
 M:function(a){var t,s,r,q,p=4281351783,o=null,n="#,###,###,###,###",m=4281195189,l=4281286247,k=u.E,j=T.n2(H.b([L.c2("\u0e2a\u0e16\u0e32\u0e19\u0e01\u0e32\u0e23\u0e13\u0e4c\u0e17\u0e31\u0e48\u0e27\u0e42\u0e25\u0e01",A.bG(o,o,new P.w(p),o,o,o,o,o,o,o,o,20,o,C.ag,o,o,!0,o,o,o,o,o,o),o)],k),C.a1,C.S,C.b_,C.b7),i=this.c,h=i.c
-h=L.c2(T.ko(n).dD(h),A.bG(o,o,new P.w(p),o,o,o,o,o,o,o,o,40,o,o,o,o,!0,o,o,o,o,o,o),o)
+h=L.c2(T.ko(n).dD(h),A.bG(o,o,new P.w(p),o,o,o,o,o,o,o,o,30,o,o,o,o,!0,o,o,o,o,o,o),o)
 t=new P.b8(4,4)
 s=L.MV(C.oc,new P.w(m),14)
 r=i.Q
@@ -27960,9 +27960,9 @@ h.oU(t,!1)
 h=T.eG(H.b([j,T.eG(H.b([r,s,L.c2("\u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e17\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 "+q.dD(h),A.bG(o,o,new P.w(4287207357),o,o,o,o,o,o,o,o,10,o,o,o,o,!0,o,o,o,o,o,o),o)],k),C.cB,C.S)],k),C.cB,C.S)
 s=new P.b8(4,4)
 r=i.x
-r=T.a1F(T.eG(H.b([L.c2(T.ko(n).dD(r),A.bG(o,o,new P.w(p),o,o,o,o,o,o,o,o,30,o,C.ag,o,o,!0,o,o,o,o,o,o),o),L.c2("\u0e2b\u0e32\u0e22\u0e41\u0e25\u0e49\u0e27",A.bG(o,o,new P.w(l),o,o,o,o,o,o,o,o,o,o,o,o,o,!0,o,o,o,o,o,o),o)],k),C.bZ,C.S))
+r=T.a1F(T.eG(H.b([L.c2(T.ko(n).dD(r),A.bG(o,o,new P.w(p),o,o,o,o,o,o,o,o,20,o,C.ag,o,o,!0,o,o,o,o,o,o),o),L.c2("\u0e2b\u0e32\u0e22\u0e41\u0e25\u0e49\u0e27",A.bG(o,o,new P.w(l),o,o,o,o,o,o,o,o,o,o,o,o,o,!0,o,o,o,o,o,o),o)],k),C.bZ,C.S))
 i=i.f
-return M.d5(o,T.eG(H.b([new T.bo(C.vb,V.Zm(new T.bo(C.vd,T.eG(H.b([new T.bo(C.v6,h,o),T.Zo(new K.bz(s,s,s,s),M.d5(o,new T.bo(C.vc,T.n2(H.b([r,T.a1F(T.eG(H.b([L.c2(T.ko(n).dD(i),A.bG(o,o,new P.w(p),o,o,o,o,o,o,o,o,30,o,C.ag,o,o,!0,o,o,o,o,o,o),o),L.c2("\u0e40\u0e2a\u0e35\u0e22\u0e0a\u0e35\u0e27\u0e34\u0e15",A.bG(o,o,new P.w(l),o,o,o,o,o,o,o,o,o,o,o,o,o,!0,o,o,o,o,o,o),o)],k),C.cB,C.S))],k),C.a1,C.S,C.b_,C.b7),o),new P.w(4294047226),o,o,o,o,o,o))],k),C.a1,C.S),o)),o)],k),C.a1,C.S),o,o,o,o,o,o,o)}}
+return M.d5(o,T.eG(H.b([new T.bo(C.vb,V.Zm(new T.bo(C.vd,T.eG(H.b([new T.bo(C.v6,h,o),T.Zo(new K.bz(s,s,s,s),M.d5(o,new T.bo(C.vc,T.n2(H.b([r,T.a1F(T.eG(H.b([L.c2(T.ko(n).dD(i),A.bG(o,o,new P.w(p),o,o,o,o,o,o,o,o,20,o,C.ag,o,o,!0,o,o,o,o,o,o),o),L.c2("\u0e40\u0e2a\u0e35\u0e22\u0e0a\u0e35\u0e27\u0e34\u0e15",A.bG(o,o,new P.w(l),o,o,o,o,o,o,o,o,o,o,o,o,o,!0,o,o,o,o,o,o),o)],k),C.cB,C.S))],k),C.a1,C.S,C.b_,C.b7),o),new P.w(4294047226),o,o,o,o,o,o))],k),C.a1,C.S),o)),o)],k),C.a1,C.S),o,o,o,o,o,o,o)}}
 F.zl.prototype={
 M:function(a){var t=null,s=K.aY(a).ai,r=B.ee(s.a),q=B.ee(s.b),p=B.ee(s.c),o=B.ee(s.d),n=B.ee(s.e),m=B.ee(s.f),l=B.ee(s.r),k=B.ee(s.y),j=B.ee(s.z),i=B.ee(s.Q),h=B.ee(s.ch),g=B.ee(s.x)
 return new S.qN(new X.qe(t),"COVID-19 DAILY",X.a2X(t,C.wU,R.a_t(j,k,t,t,h,i,o,p,q,r,n,t,t,t,t,t,t,B.ee(s.cx),l,g,t,t,m)),!1,t)}}
